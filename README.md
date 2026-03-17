@@ -1,2 +1,4 @@
-# aws-skills
-Assignment for Agent skills in AWS
+### Prerequisites
+- Python 3.8+
+- AWS Account with appropriate credentials
+- Anthropic API Key
